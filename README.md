@@ -4,4 +4,4 @@
 <div id="gifka" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlNDZsc2NzMDhka240bnFzeWg1YWJteHIxdGlxdDhjbmRlYXZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" alt="альтернативный текст" align="center">
 </div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nlch07" alt="GitHub Streak" /></a>
+[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nlch07" alt="GitHub Streak" /></a>](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
