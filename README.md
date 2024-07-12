@@ -1,5 +1,3 @@
-Привет
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlNDZsc2NzMDhka240bnFzeWg1YWJteHIxdGlxdDhjbmRlYXZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif
-" width="100"/>
-</div>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Астемир</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
