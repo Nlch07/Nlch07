@@ -4,4 +4,9 @@
 <div id="gifka" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlNDZsc2NzMDhka240bnFzeWg1YWJteHIxdGlxdDhjbmRlYXZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" alt="альтернативный текст" align="center">
 </div>
-https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
+  ###
+  <h3>Things I code with:</h3>
+  <p align="center"> 
+     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,cs,cpp,c,cpp,html,sass,docker,bash"/>
+  </p>
+</body>
