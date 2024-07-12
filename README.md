@@ -7,4 +7,4 @@
   <p align="center"> 
      <img src="https://skillicons.dev/icons?i=js,css,html,py,cpp,vscode,github"/>
   </p>
-(https://github-readme-stats.vercel.app/api/top-langs/?nlch07=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?nlch07=compact)](https://github.com/anuraghazra/github-readme-stats
