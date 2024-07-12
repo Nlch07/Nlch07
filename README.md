@@ -6,11 +6,11 @@
 
   <h3 align="center">  </h3>
   
-<div margin-left="auto">
+<div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nlch07&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-  <h3 margin-right: "auto">What do I use when coding:</h3>
-  <p margin-right="auto"> 
+  <h3 align="center">What do I use when coding:</h3>
+  <p align="center"> 
      <img src="https://skillicons.dev/icons?i=js,css,html,py,cpp,vscode,github"/>
   </p>
