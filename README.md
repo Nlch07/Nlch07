@@ -7,4 +7,4 @@
   <p align="center"> 
      <img src="https://skillicons.dev/icons?i=js,css,html,py,cpp,vscode,github"/>
   </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=nlch07
+https://github-readme-stats.vercel.app/api/top-langs/?username=nlch07&layout=compact
