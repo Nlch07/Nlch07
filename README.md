@@ -6,6 +6,6 @@
 </div>
   <h3>На чем я програмирую:</h3>
   <p align="center"> 
-     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,cs,cpp,c,cpp,html"/>
+     <img src="https://skillicons.dev/icons?i=js,py,cpp,css,html"/>
   </p>
 </body>
