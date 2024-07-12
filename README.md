@@ -1,2 +1,4 @@
 Привет
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/yYSSBtDgbbRzq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlNDZsc2NzMDhka240bnFzeWg1YWJteHIxdGlxdDhjbmRlYXZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif)" width="100"/>
+</div>
