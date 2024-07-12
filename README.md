@@ -6,7 +6,7 @@
 
   <h3 align="center">  </h3>
   
-<div align="center">
+<div margin-left="auto">
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nlch07&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
