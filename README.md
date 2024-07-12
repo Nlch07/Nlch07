@@ -6,6 +6,6 @@
 </div>
   <h3 align="center">What do I use when coding:</h3>
   <p align="center"> 
-     <img src="https://skillicons.dev/icons?i=js,css,html,py,cpp,"/>
+     <img src="https://skillicons.dev/icons?i=js,css,html,py,cpp,vscode,github"/>
   </p>
 </body>
