@@ -8,4 +8,4 @@
      <img src="https://skillicons.dev/icons?i=js,css,html,py,cpp,vscode,github"/>
   </p>
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlch07=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=nlch07=compact)](https://github.com/anuraghazra/github-readme-stats)
