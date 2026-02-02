@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Астемир! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Разрабатываю%20будущее%20на%20React%20и%20React%20Native" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" />
 </p>
 
 ### 🛠️ Мой стек технологий
