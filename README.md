@@ -25,15 +25,3 @@
 - **Mobile:** Кроссплатформенная разработка на **React Native**.
 - **Backend:** Интеграция и настройка облачных сервисов **Firebase**.
 
-### 📊 Статистика профиля
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nlch07&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nlch07&locale=en&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
-### 📫 Связь со мной
-<p align="left">
-<a href="https://t.me/ТВОЙ_ЛОГИН" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
